@@ -1,7 +1,7 @@
 name: easemob_apns
 description: get ios apns device token plugin.
 version: 0.1.0
-homepage: 
+homepage: https://github.com/dujiepeng/easemob_apns
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
